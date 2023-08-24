@@ -1,0 +1,11 @@
+molecule_chembl_id,canonical_smiles,bioactivity_class,standard_value
+CHEMBL191334,COc1ccc(C2=N[C@@H](c3ccc(Cl)cc3)[C@@H](c3ccc(Cl)cc3)N2C(=O)N2CCNC(=O)C2)c(OC(C)C)c1,inactive,25000.0
+CHEMBL3775281,O=C(Nc1ccccc1S)c1ccc(Cl)nc1,inactive,25000.0
+CHEMBL3775808,O=C(Nc1ccccc1S)c1ccc(Cl)cc1,inactive,25000.0
+CHEMBL3775936,CC(C)C(=O)Sc1ccccc1NC(=O)c1ccccc1,inactive,25000.0
+CHEMBL3774514,O=C(Nc1ccccc1S)c1ccccc1,inactive,25000.0
+CHEMBL3775136,CCCCCCCC(=O)Nc1ccccc1S,inactive,25000.0
+CHEMBL3775883,CC(C)C(=O)Nc1ccccc1OC(=O)C(C)C,inactive,25000.0
+CHEMBL3774671,CC(C)C(=O)Nc1ccccc1O,inactive,25000.0
+CHEMBL3774508,CC(C)C(=O)Nc1ccccc1SC(=O)C(C)C,inactive,25000.0
+CHEMBL3775815,CC(C)C(=O)Nc1ccccc1S,inactive,25000.0
